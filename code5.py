@@ -1,0 +1,7 @@
+num=list(range(12))
+print(num)
+print(num[2])
+num=list(range(8,12))
+print(num)
+num=list(range(3,109,3))
+print(num)
